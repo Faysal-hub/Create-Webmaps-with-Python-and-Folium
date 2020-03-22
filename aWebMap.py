@@ -7,7 +7,6 @@ lon = list(data["LON"])
 elev = list(data["ELEV"])
 name = list(data["NAME"])
 
-
 def color_producer(elevation):
     if elevation < 1000:
         return 'green'

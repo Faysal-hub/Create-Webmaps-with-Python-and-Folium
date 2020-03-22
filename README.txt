@@ -1,0 +1,1 @@
+I created a webmaps with python and one of python's popular library Folium. The map has three layers: base map layer, polygon layer and a marker layer. A polygon layer represents world population by countries and a maker layer represent the valcanoes. 
